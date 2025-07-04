@@ -32,17 +32,8 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você vê pessoas jogando lixo na rua. Nessas situações, como você se posiciona?",
-        alternativas: [
-            {
-                texto: "Se posiciona e alerta as pessoas.",
-                afirmacao: "Ainda tem esperanças na sociedade."
-            },
-            {
-                texto: "Finjo que não vi.",
-                afirmacao: "Não acredita na mudança."
-            }
-        ]
+        enunciado: "O planeta não é mais o mesmo e, o que você fez para mudar isso......"
+   
     },
     
 
