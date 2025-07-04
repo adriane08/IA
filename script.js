@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você já deve ter percebido que o nosso planeta está mudando. Qual o seu primeiiro pensamento?",
+        enunciado: "Você já deve ter percebido que o nosso planeta está mudando. Qual o seu primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
