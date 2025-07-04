@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O planeta não é mais o mesmo e, o que você fez para mudar isso......"
+        enunciado: "Em 2049 o planeta não é mais o mesmo e, o que você fez para mudar isso......"
    
     },
     
