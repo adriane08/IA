@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é normal.",
-                afirmacao: "Como ajudar o planeta"
+                afirmacao: "Isso não vai afetar a minha vida,"
             }
         ]
     },
@@ -23,53 +23,30 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Faz a sua parte, com pequenas atitudes diárias.",
-                afirmacao: "Sabe que vai fazer a diferença."
+                afirmacao: "Sei que pequenas atitudes vão fazer a diferença."
             },
             {
                 texto: "Não liga para esse assunto.",
-                afirmacao: "Sabe que não vai fazer diferença."
+                afirmacao: "sei que não vai fazer diferença."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Quando você vê lixo jogado na rua ou pessoas jogando lixo em locais inadequados, como você se posiciona?",
         alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                      {
+                texto: "Coloco o lixo em lixeiras.",
+                afirmacao: "No final, sei que fiz a minha parte!"
             },
+        
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Finjo que não vi.",
+                afirmacao: "É o ciclo do planeta e as mudanças fazem parte..."
             }
         ]
-    },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
-            {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
-            },
-            {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
-            }
-        ]
-    },
-    {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
-            {
-                texto: "O planeta não é mais o mesmo e, o que você fez para mudar isso......",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
-        ]
-    },
+    }
+    
+    
 ];
 
 
