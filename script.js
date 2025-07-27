@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "Não sei o que vai acontecer com o planeta. "
+                afirmacao: "Não sabe o que vai acontecer com o planeta. "
             },
             {
                 texto: "Isso é normal.",
-                afirmacao: "Isso não vai afetar a minha vida,"
+                afirmacao: "Sabe que isso não vai afetar a sua rotina"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Faz a sua parte, com pequenas atitudes diárias.",
-                afirmacao: "Sei que pequenas atitudes vão fazer a diferença."
+                afirmacao: "Acredita que pequenas atitudes vão fazer a diferença."
             },
             {
                 texto: "Não liga para esse assunto.",
-                afirmacao: "sei que não vai fazer diferença."
+                afirmacao: "Acredita que pequenas atitudes não vão fazer diferença."
             }
         ]
     },
@@ -36,12 +36,12 @@ const perguntas = [
         alternativas: [
                       {
                 texto: "Coloco o lixo em lixeiras.",
-                afirmacao: "No final, sei que fiz a minha parte!"
+                afirmacao: "No final, vai saber que fez a sua parte!"
             },
         
             {
                 texto: "Finjo que não vi.",
-                afirmacao: "É o ciclo do planeta e as mudanças fazem parte..."
+                afirmacao: "E é o ciclo do planeta e as mudanças fazem parte..."
             }
         ]
     }
